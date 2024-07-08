@@ -1,1 +1,2 @@
-# voice-assistance
+The query for the voice assistant can be changed as per user requirements. Speech recognition is a process by which a user can convert audio into text format. Many voice assistants are using this method, like Alexa and Siri.
+Python gives an API called SpeechRecognition, which converts the files. You will learn how to do it with the Python modules. Some of the modules required in the process are Subprocess, WolframAlpha, Pyttsx3, Tkinter, Wikipedia, Web Browser, Speech Recognition, Pyjokes, etc
